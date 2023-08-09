@@ -1,0 +1,28 @@
+.btnGray{
+    background-color:#E5E7EB;
+}
+.letterSpace{
+    letter-spacing: 0.085em;
+}
+.fz-18{
+    font-size: 18px;
+    line-height: 1.5rem;
+}
+
+.shadowColor{
+    background-color: #9BBA70;
+}
+
+.h15{
+    height: 0.375rem;
+}
+.w90{
+    width: 90%;
+    margin:auto
+}
+.lightGreen{
+    background-color:#D0D8BA;
+}
+.themeColor{
+    color: #9BBA70;;
+}

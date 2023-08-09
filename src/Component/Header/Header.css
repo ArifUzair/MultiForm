@@ -1,0 +1,18 @@
+.navbarHT{
+background-color:#414042;  
+height: 96px;
+}
+.insideContainer{
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    align-items: center;
+}
+.ExitButton{
+    font-size: 24px;
+    letter-spacing: .025em;
+}
+.headSays{
+    margin-top: -8px;
+    font-size: 14px;
+}
